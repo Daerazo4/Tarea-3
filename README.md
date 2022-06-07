@@ -3,9 +3,8 @@ DIEGO ALEXANDER ERAZO SILVA
 ## Objetivos 
  
  ### Objetivo General
- -Analizar e identificar las caracteristicas unicas tanto para los circuitos en serie como de los circuitos en paralelo con el fin de 
- reconocerlos en la practica y utilizar el metodo apropiado de resolución necesario para cada uno, a través del estudio de los 
- capitulos 5 y 6 del libro de Floyd.
+ - Identificar las caracteristicas unicas para los circuitos en serie como circuitos en paralelo con el fin de 
+ reconocerlos y utilizar el metodo apropiado para la resolución necesaria para cada problema que pueda presentar.
  
 ### Objetivos Específicos
 
@@ -14,3 +13,38 @@ DIEGO ALEXANDER ERAZO SILVA
 - Aplicar la ley del voltaje de Kirchhoff
 - Utilizar un circuito en serie como divisor de voltaje y determinar potencia en un circuito en serie
 - Medir voltaje con respecto a tierra y Localizar fallas en circuitos en serie
+
+## 2.	MARCO TEORICO
+### Capítulo 5
+
+
+
+### Capítulo 6
+
+
+
+## 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS 
+
+### Capitulo 5
+
+
+
+### Capitulo 6
+
+
+
+4. VIDEO
+
+5.CONCLUSIONES
+
+- Se identifico un circuito en paralelo, circuito en serie y los componentes que lo integran.
+
+- Se hizo los diferentes cálculos dentro de los ejercicios, teniendo en cuenta la teoría vista anteriormente
+
+- Se identifico los errores de los circuitos.
+
+- Se realizo el calculo de la potencia en circuitos serie como en paralelo.
+
+6. BIBLIOGRAFÍA
+
+- FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
