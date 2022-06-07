@@ -17,20 +17,26 @@ DIEGO ALEXANDER ERAZO SILVA
 ## 2.	MARCO TEORICO
 ### Capítulo 5
 
-
+![mapa cap 5](https://user-images.githubusercontent.com/105666912/172409519-45ea3e87-dd5f-4b06-8708-1b8cb3b5e889.png)
 
 ### Capítulo 6
 
+![mapa cap 6](https://user-images.githubusercontent.com/105666912/172431942-b9c3d6dc-40a1-4c75-8b68-54fab8e6bd77.png)
 
 
 ## 3.	EXPLICACION Y RESOLUCION DE EJERCICIOS 
 
 ### Capitulo 5
 
+![2-18](https://user-images.githubusercontent.com/105666912/172421295-d2b51bdc-98ba-425c-ba89-ac7dfd59373c.PNG)
 
+![20-26](https://user-images.githubusercontent.com/105666912/172421311-77dbbb9d-64b0-4472-b4a1-a1eb055b02e7.PNG)
 
-### Capitulo 6
+![28 36](https://user-images.githubusercontent.com/105666912/172421325-4e1e0fa4-572e-40f1-b223-92a8e6baa0e1.PNG)
 
+![38-46](https://user-images.githubusercontent.com/105666912/172421360-077b124c-a4fd-4164-bc2d-69dae6f9efa8.PNG)
+
+![48-60](https://user-images.githubusercontent.com/105666912/172421371-de7987e7-04ef-4410-bb63-ee9b44b9c4f2.PNG)
 
 
 4. VIDEO
